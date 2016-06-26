@@ -1,0 +1,3 @@
+AI README
+
+The purpose of this section of the project is to generate a sufficient library of AI functionality to be useful to humans for automating tasks under every circumstance.  A successful implementation will include a suite of software for logically parsing data about the environment, modelling the world for high speed calculations of interaction, and will include a suite for outputs.
