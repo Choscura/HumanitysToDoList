@@ -1,3 +1,39 @@
 HumanitysToDoList README
 
-The purpose of this project is to identify those items, skills, methods, understandings, and conditions necessary to the continuation of human life, no matter what other factors may be applicable.  It is not the intent of this project to put people on other planets, it is simply regarded as inevitable that humans will attempt to do such things, and so this project is geared towards securing a basic level of infrastructure for environments such as that.  A successful outcome of this project is the availability of Italian and Thai food on the moon, the accomplishment of which necessitates sufficient mastery over the human condition that it should allow the human species to universally address conditions such as poverty and hunger, as well as income disparity, education, and perhaps even allow the human species to disabuse itself of obsolete notions of the supernatural.
+The purpose of this project is to identify those items, skills, methods, understandings, and conditions necessary to the continuation of human life, no matter what other factors may be applicable.  It is not the intent of this project to put people on other planets, it is simply regarded as inevitable that humans will attempt to do such thing.  Since a first step toward that necessarily implies mastery over our own planet first, this project is geared towards securing a basic level of infrastructure for that.  A successful outcome of this project is a box, the posession of which allows the possessor the ability to make any tool they need, to accomplish any technical goal, with a means of delivering the basic competence to set about these tasks, integrated into a learning platform with some discretionary ability to test the competence of the user, the accomplishment of which necessitates sufficient mastery over the human condition that it should allow the human species to universally address conditions such as poverty and hunger, as well as income disparity, education, and perhaps even allow the human species to disabuse itself of obsolete supernatural heirarchies.
+
+The parts of this, considered independently, are:
+	Artificial intelligence
+	Culture
+	Disposal
+	Earthship
+	Education
+	Food
+	Industry
+	Morality
+	Self-Management
+	Terraforming
+
+the TLDR version of what each of these is intended to be a repository for is:
+	Artificial intelligence
+		This repository is intended to study specific categories of AI and provide "an implemented consciousness framework" that builds a cumulative model of consciousness.  As an example of this to put it in english, you could take existing AI assistants, such as alexa, siri, google assistant, bixby, and so on, into a single "collective AI instance" that filters redundant responses out.  But, this is intended to be a library with a test bed allowing different algorithms of graphics processing, for different applications.
+        Culture
+		This is intended to be a repository of culture, <local definition- 'culture is the cumulative creative effort of all members of the human species and of any other potential, historical, or other species or form of consciousness capable of intentionally leaving records or recordings>.
+
+		but this is ALSO intended to be a set of tools for acquiring cultural data and archiving it so it is not lost to humanity- book scanning software, image-to-text translation kits, markups for linguistic or atypical character use and arrangements, and so on, are all intended to be facilitated in this.
+        Disposal
+		This is a set of tools and methodologies for handling and treating waste, whatever its' source or origin, into a safe-to-handle secondary product. It includes the digester portion of biogas, bokashi composting, conventional composting, composting toilets and humanure processing, and other such fun shitty topics.
+        Earthship
+		This is housing technology.  This is intended to give any user the abily to make any style of home desired, agnostic of other utilities and infrastructure, in such a way that meets the basic climate control, water and food collection/production, sewage treatment, and basic energy needs of the human species, in as small of a footprint as technically possible
+        Education
+		This is intended to be a chatbot that will force-feed you an education by topic as you progress along a path of your own interests and desires.
+        Food
+		This is about sustainable food production, harvest, collection, treatment, preservation and storage techniques, and the ecology, husbandry, biology, and other relevant sets of data to allow a person to make accurate predictions about food, food/prey animals, and assess and identify edible or otherwise beneficial plants and funghi.
+        Industry
+		This is about energy production and the production of goods, and includes such topics as the manufacturing methods used to make goods from materials like metal, plastic, rubber, wax, cloth, composites, leathers, and more, and also the means and methods of energy production, and of communication and computational infrastructure.  A completely developed implementation of this project looks something like you having the ability to make an iphone-analogous Raspberry PiPhone in your garage.
+        Morality
+		this is intended to provide a computational morality assesment framework, on the basis of the premise that "morality" is "a set of computational problems about the optimization of consequences for entities capable of experiencing those consequences.  This is a tool of consequence management, intended to be integrated into a chatbot that can reason through propositions with a user to assess their moral competence or assist their moral judgement.
+        Self-Management
+        	This is digital ritalin. This is intended to be a project that keeps you on the task of what you have chosen to do, that makes a next-action available to you that is a good action for you to take, without the emotional burden of assessing what needs to be done.  This is to move the process of task management out of your brain, at least partially, by integrating it into a larger system that is external to you and that interacts with you.
+	Terraforming
+		This a set of data about the planet-scale causes and effects leading to tectonic, climatic, weather, and other environmental factors of a location such as the surface of a planet or moon.  
