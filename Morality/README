@@ -1,3 +1,5 @@
 MORALITY README
 
 The purpose of this section of the project is to giv a codified standard by which the morality of propositions can be objectively compared by the straightforward comparison of their elements and consequences.
+
+Basically this part should have a 'moral engine' that can compute morality on the basis of propositions and provide a computational basis of morality for assessing the outcomes of decisions.
