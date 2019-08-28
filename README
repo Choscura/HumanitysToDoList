@@ -17,23 +17,32 @@ The parts of this, considered independently, are:
 the TLDR version of what each of these is intended to be a repository for is:
 	Artificial intelligence
 		This repository is intended to study specific categories of AI and provide "an implemented consciousness framework" that builds a cumulative model of consciousness.  As an example of this to put it in english, you could take existing AI assistants, such as alexa, siri, google assistant, bixby, and so on, into a single "collective AI instance" that filters redundant responses out.  But, this is intended to be a library with a test bed allowing different algorithms of graphics processing, for different applications.
-        Culture
+        
+	Culture
 		This is intended to be a repository of culture, <local definition- 'culture is the cumulative creative effort of all members of the human species and of any other potential, historical, or other species or form of consciousness capable of intentionally leaving records or recordings>.
 
 		but this is ALSO intended to be a set of tools for acquiring cultural data and archiving it so it is not lost to humanity- book scanning software, image-to-text translation kits, markups for linguistic or atypical character use and arrangements, and so on, are all intended to be facilitated in this.
-        Disposal
+        
+	Disposal
 		This is a set of tools and methodologies for handling and treating waste, whatever its' source or origin, into a safe-to-handle secondary product. It includes the digester portion of biogas, bokashi composting, conventional composting, composting toilets and humanure processing, and other such fun shitty topics.
-        Earthship
+        
+	Earthship
 		This is housing technology.  This is intended to give any user the abily to make any style of home desired, agnostic of other utilities and infrastructure, in such a way that meets the basic climate control, water and food collection/production, sewage treatment, and basic energy needs of the human species, in as small of a footprint as technically possible
-        Education
+        
+	Education
 		This is intended to be a chatbot that will force-feed you an education by topic as you progress along a path of your own interests and desires.
-        Food
+        
+	Food
 		This is about sustainable food production, harvest, collection, treatment, preservation and storage techniques, and the ecology, husbandry, biology, and other relevant sets of data to allow a person to make accurate predictions about food, food/prey animals, and assess and identify edible or otherwise beneficial plants and funghi.
-        Industry
+        
+	Industry
 		This is about energy production and the production of goods, and includes such topics as the manufacturing methods used to make goods from materials like metal, plastic, rubber, wax, cloth, composites, leathers, and more, and also the means and methods of energy production, and of communication and computational infrastructure.  A completely developed implementation of this project looks something like you having the ability to make an iphone-analogous Raspberry PiPhone in your garage.
-        Morality
+        
+	Morality
 		this is intended to provide a computational morality assesment framework, on the basis of the premise that "morality" is "a set of computational problems about the optimization of consequences for entities capable of experiencing those consequences.  This is a tool of consequence management, intended to be integrated into a chatbot that can reason through propositions with a user to assess their moral competence or assist their moral judgement.
-        Self-Management
+        
+	Self-Management
         	This is digital ritalin. This is intended to be a project that keeps you on the task of what you have chosen to do, that makes a next-action available to you that is a good action for you to take, without the emotional burden of assessing what needs to be done.  This is to move the process of task management out of your brain, at least partially, by integrating it into a larger system that is external to you and that interacts with you.
+	
 	Terraforming
 		This a set of data about the planet-scale causes and effects leading to tectonic, climatic, weather, and other environmental factors of a location such as the surface of a planet or moon.  
