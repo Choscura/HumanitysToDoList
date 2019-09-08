@@ -2,13 +2,9 @@ MORALITY README
 
 The purpose of this section of the project is to giv a codified standard by which the morality of propositions can be objectively compared by the straightforward comparison of their elements and consequences.
 
-<<<<<<< HEAD
 **FUNDAMENTAL PRINCIPLES**
 
 Morality is a system for optimizing the consequences of conscious creatures, inasmuch as these affect happines (subjective assesment of well being), physical composition (non-subjective relative assessment of well-being) and capacity for decision making
 
-
 =======
 Basically this part should have a 'moral engine' that can compute morality on the basis of propositions and provide a computational basis of morality for assessing the outcomes of decisions.
->>>>>>> 4edcb1deec24194bbaf258f597b9e57cb5be2fef
-~                                                 
