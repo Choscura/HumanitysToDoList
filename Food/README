@@ -11,3 +11,35 @@ Major topics include:
   * food preparation and processing, those steps between a harvested plant, animal, or orther organism's substances, and the presentation of those substances as a plate of food to a hungry eater
   * an array of diet options and a vocabulary of nutritional tools to assess the consumption and potential consumptions of the participants in this project <you the humonkey reading this>
   
+APPENDED TEXT VERSION CONTROL EDITING NEEDED
+
+FOOD README
+
+The purpose of this section of the project is to outline those production techniques for growing, cultivating, husbanding, rearing, harvesting, slaughtering, butchering, preparing, cooking, and serving physical nourishment.  The intent is to enable anybody to produce more calories to be available to their own diet, or to render some greater portion of the existing environment's calories into an edible form for themselves, for example by having a goat turn calories from grass into calories of milk.
+
+<<<<<<< HEAD
+PROJECTS
+
+Farmbot expansion
+
+        a swing-arm crane that can be the farmbot, a conversion of all functions to
+        a common API for abstracting the environment into models of computational notation ("making the computer understand the garden", think of it approximately like turning your garden into a first-person shooter and working out how the bots/npc's should behave)
+        a visual input processing library that has a library of recognized species (recognizing the plant 'corn')
+        behavior for discovering new species
+        some more sophisticated recognition for specific species based on conditions (eg, recognizing the status of various crops produced by the plant, how many ears of corn a stalk is growing etc)
+
+FarmBuzz Idea
+        Take this set of 'plant overlord' behavior and functionality and put it on a drone that can travel large distances to perform plant husbandry, cultivation, and harvest completely remotely. Basically put the 'farmbot' arm, in as few discrete tools as possible, on a quadcopter or helium dirigible and you can literally automate rotational crop checks over square miles.  May be especially useful for plants requiring obscure growing conditions, such as mountainous ginseng (maybe a small solar power setup and an air compressor to excavate the roots?)
+
+
+
+
+=======
+Major topics include:
+  * foraging for food, including identifying hitherto unknown species and testing them for edibility
+  * animal husbandry and the raising of livestock
+  * plant husbandry and the raising of different crops
+  * mycological colony cultivation, propogation, and harvesting
+  * Hunting and fishing, with an emphasis on sustainable practices and wildlife population management
+  * food preparation and processing, those steps between a harvested plant, animal, or orther organism's substances, and the presentation of those substances as a plate of food to a hungry eater
+  * an array of diet options and a vocabulary of nutritional tools to assess the consumption and potential consumptions of the participants in this project <you the humonkey reading this>
